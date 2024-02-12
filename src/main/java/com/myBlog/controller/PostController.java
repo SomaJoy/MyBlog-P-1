@@ -1,10 +1,10 @@
 package com.myBlog.controller;
 
-import com.myBlog.entity.Post;
+
 import com.myBlog.payload.PostDto;
 import com.myBlog.service.PostService;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
+
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
